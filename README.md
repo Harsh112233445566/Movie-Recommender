@@ -66,4 +66,16 @@ Once the model is trained, it is saved using Pickle, allowing for faster loading
 4. Streamlit Interface:
 Users can input a movie title or select from a list. The system will recommend similar movies based on the movie description.
 
+## Samples
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/744992ad-3e7e-489f-b2f1-8febc24e079f">
+
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/4a47ec2e-7c17-4dd7-aed6-4f4ebcf7144f">
+
+<img width="907" alt="image" src="https://github.com/user-attachments/assets/baf1bee5-70ca-4118-823d-8c006dc32759">
+
+<img width="885" alt="image" src="https://github.com/user-attachments/assets/3be4ad21-8fbd-42fe-8772-19cacbbe06aa">
+
+
+
+
 
