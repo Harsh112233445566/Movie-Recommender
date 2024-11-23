@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-## Drive link for webapp : https://drive.google.com/drive/folders/1vJyknKABln2gH4N6K0zd6-8xhcnvU0gI?usp=drive_link
+## Drive link for webapp : https://drive.google.com/drive/folders/1Cyb9OW_xDTC6O5hVKci9m9Lfi_aG0R6H?usp=drive_link
 
 ## Overview
 
@@ -67,7 +67,7 @@ Once the model is trained, it is saved using Pickle, allowing for faster loading
 Users can input a movie title or select from a list. The system will recommend similar movies based on the movie description.
 
 ## Samples
-<img width="958" alt="image" src="https://github.com/user-attachments/assets/744992ad-3e7e-489f-b2f1-8febc24e079f">
+<img width="885" alt="image" src="https://github.com/user-attachments/assets/3e8e8d97-0b02-4cc4-bb56-f2363b736bc2">
 
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/4a47ec2e-7c17-4dd7-aed6-4f4ebcf7144f">
 
