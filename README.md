@@ -67,7 +67,7 @@ Once the model is trained, it is saved using Pickle, allowing for faster loading
 Users can input a movie title or select from a list. The system will recommend similar movies based on the movie description.
 
 ## Samples
-<img width="885" alt="image" src="https://github.com/user-attachments/assets/3e8e8d97-0b02-4cc4-bb56-f2363b736bc2">
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/3617d8d3-09b1-4cee-9d22-f9d553ce28fd">
 
 <img width="907" alt="image" src="https://github.com/user-attachments/assets/4a47ec2e-7c17-4dd7-aed6-4f4ebcf7144f">
 
