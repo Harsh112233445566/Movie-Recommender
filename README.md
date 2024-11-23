@@ -1,5 +1,7 @@
 # Movie Recommendation System
 
+## Drive link for webapp : https://drive.google.com/drive/folders/1vJyknKABln2gH4N6K0zd6-8xhcnvU0gI?usp=drive_link
+
 ## Overview
 
 This repository contains a **Movie Recommendation System** built with Python. It suggests movies to users based on movie descriptions using **vectorization techniques** (TF-IDF). The project is hosted on **Streamlit**, providing an interactive web interface. The recommendation model and the movie data are saved using **Pickle** for efficient loading and use.
@@ -22,7 +24,6 @@ This repository contains a **Movie Recommendation System** built with Python. It
 
 ---
 
-Drive link for webapp : https://drive.google.com/drive/folders/1vJyknKABln2gH4N6K0zd6-8xhcnvU0gI?usp=drive_link
 
 1. Install Required Dependencies
 Make sure you have Python 3.6+ installed. Then, install the required libraries using pip:
@@ -52,7 +53,7 @@ streamlit run web.py
 This will open the Streamlit app in your web browser, where you can interact with the movie recommendation system.
 
 
-How It Works
+## How It Works
 1. Data Preprocessing:
 The dataset consists of movie titles and descriptions. The text data is preprocessed (cleaning, removing stopwords) and then vectorized into numerical data using TF-IDF.
 
