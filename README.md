@@ -14,7 +14,7 @@ This repository contains a **Movie Recommendation System** built with Python. It
 
 ---
 
-## Technologies Used
+## Technologies used
 
 - **Python**: Programming language used for the implementation.
 - **Streamlit**: For building the interactive web app.
