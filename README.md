@@ -2,7 +2,7 @@
 
 ## Drive link for webapp : https://drive.google.com/drive/folders/1Cyb9OW_xDTC6O5hVKci9m9Lfi_aG0R6H?usp=drive_link
 
-## Overview
+## OVERVIEW
 
 This repository contains a **Movie Recommendation System** built with Python. It suggests movies to users based on movie descriptions using **vectorization techniques** (TF-IDF). The project is hosted on **Streamlit**, providing an interactive web interface. The recommendation model and the movie data are saved using **Pickle** for efficient loading and use.
 
